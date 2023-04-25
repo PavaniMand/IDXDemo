@@ -1,0 +1,9 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "vlocity.sfdxUsername": "pmandavalli-78447679356-36@industryapps.com",
+  "vlocity.projectPath": "c:\\Users\\pmandavalli\\Desktop\\IDXDemo\\IDXDemo\\VlocityFolder"
+}
